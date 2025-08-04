@@ -26,7 +26,6 @@ const Art = () => {
 				end,
 				pin: true,
 				scrub: 1.5,
-				markers: true,
 			},
 		});
 
